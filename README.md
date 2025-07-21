@@ -13,7 +13,7 @@ Características
 
 ## 🖼️ Vista Previa
 
-![Preview](assets/NoScope+.jpg.png)
+![Preview](assets/NoScope+.jpg)
 
 🚀 Requisitos
 
