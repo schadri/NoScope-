@@ -1,9 +1,13 @@
-Una herramienta visual para superponer un **crosshair personalizable** en pantalla, ideal para juegos en modo ventana o sin bordes. Utiliza **Kivy** para la interfaz de usuario y **PyQt5** para mostrar la imagen flotante centrada en pantalla.
+Una herramienta visual para superponer un **crosshair personalizable** en pantalla, ideal si tu monitor no tiene esta funcion y tu placa de video no es compatible con la misma. 
+
+Utiliza **Kivy** para la interfaz de usuario y **PyQt5** para mostrar la imagen flotante centrada en pantalla.
+
+Recomendacion: utilizar el modo "Pantalla Completa Sin Bordes" en tu juego
 
 Características
 
-- Overlay en pantalla con transparencia, siempre visible incluso en juegos.
-- Soporte para imágenes personalizadas (PNG, JPG, etc.).
+- Overlay en pantalla con transparencia, siempre visible.
+- Soporte para crosshair´s personalizadas (PNG, JPG, etc.).
 - Control de:
   - Escala del crosshair
   - Opacidad
