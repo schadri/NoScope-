@@ -2,7 +2,7 @@ Una herramienta visual para superponer un **crosshair personalizable** en pantal
 
 Utiliza **Kivy** para la interfaz de usuario y **PyQt5** para mostrar la imagen flotante centrada en pantalla.
 
-Recomendacion: utilizar el modo "Pantalla Completa Sin Bordes" en tu juego
+Recomendacion: utilizar el modo "Pantalla Completa Sin Bordes" en tu juego <br>
 (Para CS2 en 4:3 podes cambiar la resolucion de windows)
 
 Características
