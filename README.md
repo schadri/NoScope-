@@ -29,3 +29,6 @@ Características
 Dependencias:
 ```bash
 pip install kivy pyqt5
+```
+## 📥 Descargar | Releases
+[https://github.com/schadri/NoScope-/releases/download/v1.0/main1.exe](https://github.com/schadri/NoScope-/releases/tag/v1.0)
