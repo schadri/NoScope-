@@ -17,8 +17,15 @@ Características
 
 ## 🖼️ Vista Previa
 
-![Preview](assets/NoScope+.jpg)
-![Preview](assets/in_game.jpg)
+<p float="left">
+  <img src="assets/NoScope+.jpg" width="49%"/>
+  <img src="assets/in_game.jpg" width="49%"/>
+</p>
+
+
+
+
+
 🚀 Requisitos
 
 - Python 3.7 o superior
