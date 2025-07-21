@@ -37,7 +37,7 @@ Recomendacion: utilizar el modo "Pantalla Completa Sin Bordes" en tu juego <br>
 - Multiprocessing (incluido en Python)
 
 <h2>Dependencias:</h2>
-<pre lang="markdown"> ```bash pip install kivy pyqt5 ``` </pre>
+<pre lang="markdown">pip install kivy pyqt5 </pre>
 
 
 <h3 align="center" style="font-size:23px">📥 Descargar la ultima version</h3>
