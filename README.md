@@ -18,7 +18,7 @@ Características
 ## 🖼️ Vista Previa
 
 ![Preview](assets/NoScope+.jpg)
-
+![Preview](assets/in_game.jpg)
 🚀 Requisitos
 
 - Python 3.7 o superior
