@@ -7,7 +7,7 @@ Recomendacion: utilizar el modo "Pantalla Completa Sin Bordes" en tu juego
 Características
 
 - Overlay en pantalla con transparencia, siempre visible.
-- Soporte para crosshair´s personalizadas (PNG, JPG, etc.).
+- Soporte para crosshair´s personalizadas (preferentemente en PNG por la transparencia).
 - Control de:
   - Escala del crosshair
   - Opacidad
